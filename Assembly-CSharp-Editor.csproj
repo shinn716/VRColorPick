@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F5B8C7C5-4C36-A413-8B64-833ABEBEC938}</ProjectGuid>
+    <ProjectGuid>{2B0CD31A-BFE7-4A4B-2910-FDC82725D51F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -55,10 +55,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\VSCode\Plugins\Editor\VSCode.cs" />
-     <None Include="Assets\SimpleColorPicker\Shaders\ColorHue.shader" />
-     <None Include="Assets\SimpleColorPicker\Shaders\ColorSaturationBrightness.shader" />
-     <None Include="Assets\SimpleColorPicker\Shaders\SolidColor.shader" />
-     <None Include="Assets\SimpleColorPicker\readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity2017.2.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -143,7 +139,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{C3D45DB9-FCC0-2E10-FCA0-29ADF19F0EB3}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{8910ADD2-085E-8EF4-603F-E9D70498BEF6}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

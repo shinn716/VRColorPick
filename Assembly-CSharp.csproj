@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C3D45DB9-FCC0-2E10-FCA0-29ADF19F0EB3}</ProjectGuid>
+    <ProjectGuid>{8910ADD2-085E-8EF4-603F-E9D70498BEF6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,19 +54,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\SimpleColorPicker\Scripts\ColorHuePicker.cs" />
-     <Compile Include="Assets\SimpleColorPicker\Scripts\ColorIndicator.cs" />
-     <Compile Include="Assets\SimpleColorPicker\Scripts\ColorSaturationBrightnessPicker.cs" />
-     <Compile Include="Assets\SimpleColorPicker\Scripts\Draggable.cs" />
-     <Compile Include="Assets\SimpleColorPicker\Scripts\ExampleColorReceiver.cs" />
-     <Compile Include="Assets\SimpleColorPicker\Scripts\HSBColor.cs" />
-     <Compile Include="Assets\UGv4\Script\sp.cs" />
-     <Compile Include="Assets\UGv4\Script\TextGradient.cs" />
-     <Compile Include="Assets\UGv4\Script\uiPanel.cs" />
-     <None Include="Assets\SimpleColorPicker\Shaders\ColorHue.shader" />
-     <None Include="Assets\SimpleColorPicker\Shaders\ColorSaturationBrightness.shader" />
-     <None Include="Assets\SimpleColorPicker\Shaders\SolidColor.shader" />
-     <None Include="Assets\SimpleColorPicker\readme.txt" />
+     <Compile Include="Assets\UGv4_Script\uiPanel.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity2017.2.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
