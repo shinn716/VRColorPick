@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UGv4_uiPanel.unity
+  isLoaded: 1
+  isActive: 1
