@@ -1,4 +1,3 @@
 # VR_ColorPick
-VR_SimpleColorPick
-
-<img src="https://github.com/shinn716/VR_ColorPicker/blob/master/colorPicker.gif" /></a>
+<img src="https://github.com/shinn716/VR_ColorPicker/blob/master/colorPicker.gif" /></a>  
+Can use arrow keys to control the picker.  
